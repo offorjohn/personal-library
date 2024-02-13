@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../personal-library"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "boilerplate-project-library-main"
+	}
+}
